@@ -40,7 +40,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
-                <version>3.8.1</version> <!-- Hoặc phiên bản mới hơn hỗ trợ JDK 17 -->
+                <version>3.11.0</version> <!-- Hoặc phiên bản mới hơn hỗ trợ JDK 17 -->
                 <configuration>
                     <release>17</release>
                 </configuration>
